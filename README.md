@@ -17,7 +17,7 @@ Friends list is fake and does nothing.
 
 ### To make it run locally:
 
-`bundle install` to install ruby gems, then to install react modules `cd client` and run `yarn install` or `npm install`
+`bundle install` to install ruby gems, then to install react modules `cd client` and run `npm i`
 
 A .env file needs to be created in the root of the project for the JWT, example:
 
